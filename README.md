@@ -1,4 +1,6 @@
 
+https://img.shields.io/github/issues/MaximilianSchroeder/SDW_API
+
 # A Basic SDW API
 This package provides a basic API for the ECB's Statistical Data Warehouse (SDW).
 In its current version, a few features are still missing. Nonetheless, the package already allows for downloading data seamlessly. An option allows saving the downloaded data directly into a `.xlsx` spreadsheet.
