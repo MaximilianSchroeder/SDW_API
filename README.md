@@ -2,7 +2,6 @@
 ![GitHub issues](https://img.shields.io/github/issues/MaximilianSchroeder/SDW_API)
 ![GitHub forks](https://img.shields.io/github/forks/MaximilianSchroeder/SDW_API)
 ![GitHub stars](https://img.shields.io/github/stars/MaximilianSchroeder/SDW_API)
-[![Github All Releases](https://img.shields.io/github/downloads/MaximilianSchroeder/SDW_API/total.svg)]()
 
 
 # A Basic SDW API
