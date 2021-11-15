@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "SDW_API"
-version = "0.1.2"
+version = "0.1.3"
 description = "Allows downloading data from the ECB's Statistical Data Warehouse (SDW)"
 authors = ["Max <maximilian.schroder@bi.no>"]
 license = "MIT"
